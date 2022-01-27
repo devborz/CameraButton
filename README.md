@@ -1,3 +1,3 @@
 # CameraButton
 
-![Video](https://github.com/devborz/CameraButton/tree/main/video/work.gif)
+![Video](https://github.com/devborz/CameraButton/blob/main/video/work.gif)
